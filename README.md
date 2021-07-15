@@ -70,4 +70,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 <!-- - Website [your-website.com](https://{your-web-site-link}) -->
 - GitHub [@devalade](https://github.com/devalade)
-- Twitter [@devalade](https://twitter.com/dev_alade)
+- Twitter [@dev_alade](https://twitter.com/dev_alade)
